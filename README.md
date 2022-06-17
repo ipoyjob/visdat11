@@ -1,5 +1,5 @@
 # tugas besar visualisasi data
-link heroku = https://vsdtkel11.herokuapp.com/tubesvisdat
+link heroku = https://tubesvisdat11.herokuapp.com/tubes_visdat_kelompok_11
 
 Kelompok 11
 imam prayoga (1301190346)
